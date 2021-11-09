@@ -23,9 +23,9 @@
         "package": "MapboxCommon",
         "repositoryURL": "https://github.com/mapbox/mapbox-common-ios.git",
         "state": {
-          "branch": null,
-          "revision": "8d107b2dae7822f75e1bedfebe3be9d14a1d81df",
-          "version": "20.1.0"
+          "branch": "snapshot-for-testing",
+          "revision": "552f633bfdd1a15d42e887ab33f12c6c5841d8ab",
+          "version": null
         }
       },
       {
@@ -59,9 +59,9 @@
         "package": "MapboxMaps",
         "repositoryURL": "https://github.com/mapbox/mapbox-maps-ios.git",
         "state": {
-          "branch": null,
-          "revision": "4c58ce320a716ef6b7337186076ef3d8279882f7",
-          "version": "10.1.0"
+          "branch": "vesh93/integrate_core_telemetry",
+          "revision": "cf9a56c1c2d8725e13719bcb5819bcbf80ca0eed",
+          "version": null
         }
       },
       {
